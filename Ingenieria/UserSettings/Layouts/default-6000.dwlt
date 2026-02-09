@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 112}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 68
+  controlID: 37
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 112}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 69
+  controlID: 38
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -277,7 +277,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 59
+  controlID: 39
   draggingID: 0
 --- !u!114 &12
 MonoBehaviour:
@@ -321,14 +321,14 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 600}
   m_MaxSize: {x: 600, y: 1200}
   m_TitleContent:
-    m_Text: WindowTitle
+    m_Text: Tutorials
     m_Image: {fileID: 0}
     m_Tooltip: 
-    m_TextWithWhitespace: "WindowTitle\u200B"
+    m_TextWithWhitespace: "Tutorials\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1356.2
-    y: 24
+    x: 1355.2001
+    y: 79.200005
     width: 179.80005
     height: 690.8
   m_SerializedDataModeController:
@@ -366,7 +366,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 0
+    y: 43.2
     width: 1536
     height: 36
   m_SerializedDataModeController:
@@ -619,7 +619,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 483.2
+    y: 538.4
     width: 991
     height: 231.59998
   m_SerializedDataModeController:
@@ -646,7 +646,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Tests/EditMode
+    - Assets/Tests/PlayMode
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -656,21 +656,24 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Tests/EditMode
+  - Assets/Tests/PlayMode
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Windows11\Desktop\Universidad\Unity\Ingenieria
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 204.40002}
+    scrollPos: {x: 0, y: 79}
     m_SelectedIDs:
-    - m_Data: 62760
+    - m_Data: 44772
     m_LastClickedID:
-      m_Data: 62760
+      m_Data: 44772
     m_ExpandedIDs:
     - m_Data: 0
     - m_Data: 43928
+    - m_Data: 44054
+    - m_Data: 1000000000
+    - m_Data: 2147483647
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -785,8 +788,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 993
-    y: 24
+    x: 992
+    y: 79.200005
     width: 361.19995
     height: 690.8
   m_SerializedDataModeController:
@@ -838,7 +841,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 24
+    y: 79.200005
     width: 197.4
     height: 433.2
   m_SerializedDataModeController:
@@ -861,9 +864,9 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -37842
-      - m_Data: -35524
-      - m_Data: -34278
+      - m_Data: -8360
+      - m_Data: -8098
+      - m_Data: -4516
       - m_Data: -1294
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -1484,8 +1487,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 199.4
-    y: 24
+    x: 198.40001
+    y: 79.200005
     width: 791.6
     height: 433.2
   m_SerializedDataModeController:
@@ -1559,7 +1562,7 @@ MonoBehaviour:
       height: 1152
     m_MinimalGUI: 1
   m_defaultScale: 0.35781252
-  m_LastWindowPixelSize: {x: 791.6, y: 433.2}
+  m_LastWindowPixelSize: {x: 989.5, y: 541.5}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
