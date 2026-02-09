@@ -10,4 +10,5 @@
   <Project Path="NavMeshComponentsEditor.csproj" />
   <Project Path="fps.Editor.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="UnityTest.csproj" />
 </Solution>
